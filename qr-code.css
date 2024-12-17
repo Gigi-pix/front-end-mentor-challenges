@@ -27,14 +27,14 @@ margin:20px;
     
 
 }
-.style_card h2{
+.style_card h1{ 
     font-size: 16px;
     color: hsl(218, 44%, 22%);
     margin-bottom:10px;
     font-weight: 700;
 }
 
-.style_card h3{
+.style_card h2{
     font-size: 10px;
     color: hsl(220, 15%, 55%);
     font-weight: 400;
